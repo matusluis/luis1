@@ -1,1 +1,3 @@
-prueba.groovy
+// HolaGroovy.groovy
+println "Hola, Groovy!"
+
